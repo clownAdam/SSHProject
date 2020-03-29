@@ -1,0 +1,10 @@
+2020-03-29 11:12:48 INFO  [main][Version.java:46] - HHH000412: Hibernate Core {5.3.1.Final}
+2020-03-29 11:12:48 INFO  [main][Environment.java:213] - HHH000206: hibernate.properties not found
+2020-03-29 11:12:50 INFO  [main][JavaReflectionManager.java:49] - HCANN000001: Hibernate Commons Annotations {5.0.3.Final}
+2020-03-29 11:12:51 INFO  [main][Dialect.java:157] - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2020-03-29 11:12:51 INFO  [main][LobCreatorBuilderImpl.java:98] - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2020-03-29 11:15:34 INFO  [main][Version.java:46] - HHH000412: Hibernate Core {5.3.1.Final}
+2020-03-29 11:15:34 INFO  [main][Environment.java:213] - HHH000206: hibernate.properties not found
+2020-03-29 11:15:35 INFO  [main][JavaReflectionManager.java:49] - HCANN000001: Hibernate Commons Annotations {5.0.3.Final}
+2020-03-29 11:15:36 INFO  [main][Dialect.java:157] - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2020-03-29 11:15:36 INFO  [main][LobCreatorBuilderImpl.java:98] - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
